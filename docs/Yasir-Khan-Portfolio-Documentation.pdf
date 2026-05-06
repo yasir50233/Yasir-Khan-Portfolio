@@ -1,0 +1,477 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 3192 >>
+stream
+BT
+0.03 0.18 0.42 rg
+/F1 22 Tf
+1 0 0 1 54.00 787.89 Tm
+(Yasir Khan Portfolio Website Documentation) Tj
+ET
+BT
+0.15 0.39 0.72 rg
+/F1 14 Tf
+1 0 0 1 54.00 747.89 Tm
+(Simple guide for the React portfolio project) Tj
+ET
+BT
+0.30 0.35 0.42 rg
+/F1 10 Tf
+1 0 0 1 54.00 719.89 Tm
+(Created for: Yasir Khan) Tj
+ET
+BT
+0.30 0.35 0.42 rg
+/F1 10 Tf
+1 0 0 1 54.00 701.89 Tm
+(Project type: React + Vite personal portfolio website) Tj
+ET
+BT
+0.03 0.18 0.42 rg
+/F1 15 Tf
+1 0 0 1 54.00 669.89 Tm
+(1. What This Project Is) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 642.89 Tm
+(This project is a personal portfolio website for Yasir Khan. It shows his work,) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 626.89 Tm
+(skills, contact information, and developer profile in a clean web page.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 604.89 Tm
+(The website is built with React. Vite is used to run the site while working and to) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 588.89 Tm
+(create the final build for hosting.) Tj
+ET
+BT
+0.03 0.18 0.42 rg
+/F1 15 Tf
+1 0 0 1 54.00 552.89 Tm
+(2. Main Features) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 525.89 Tm
+(- Hero section with the main title and social links.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 505.89 Tm
+(- About section with a short intro, highlights, and animated numbers.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 485.89 Tm
+(- Skills section with filters and progress bars.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 465.89 Tm
+(- Portfolio section with project cards.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 445.89 Tm
+(- Contact section with email, LinkedIn, GitHub, and a form.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 425.89 Tm
+(- Dark and bright mode toggle.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 405.89 Tm
+(- Responsive design for mobile and desktop screens.) Tj
+ET
+BT
+0.03 0.18 0.42 rg
+/F1 15 Tf
+1 0 0 1 54.00 371.89 Tm
+(3. How To Run The Project) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 344.89 Tm
+(Open a terminal inside the project folder.) Tj
+ET
+BT
+0.05 0.34 0.45 rg
+/F1 10 Tf
+1 0 0 1 68.00 320.89 Tm
+(npm install) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 298.89 Tm
+(Use this command if packages are missing or if node_modules is not available.) Tj
+ET
+BT
+0.05 0.34 0.45 rg
+/F1 10 Tf
+1 0 0 1 68.00 274.89 Tm
+(npm run dev) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 252.89 Tm
+(This starts the local website server.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 230.89 Tm
+(Open this link in the browser:) Tj
+ET
+BT
+0.05 0.34 0.45 rg
+/F1 10 Tf
+1 0 0 1 68.00 206.89 Tm
+(http://127.0.0.1:5173/) Tj
+ET
+BT
+0.05 0.34 0.45 rg
+/F1 10 Tf
+1 0 0 1 68.00 182.89 Tm
+(npm run build) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 160.89 Tm
+(This checks the project and creates the final production files in the dist folder.) Tj
+ET
+BT
+0.03 0.18 0.42 rg
+/F1 15 Tf
+1 0 0 1 54.00 124.89 Tm
+(4. Important Files) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 97.89 Tm
+(- index.html: The browser page shell. It has the title, favicon, font links, and) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 81.89 Tm
+(React root.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 3657 >>
+stream
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 787.89 Tm
+(- styles.css: All design styles, responsive layout, and dark mode colors.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 767.89 Tm
+(- src/main.jsx: Starts the React app.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 747.89 Tm
+(- src/App.jsx: Joins all page sections together and handles theme/navigation state.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 727.89 Tm
+(- public/logo.png: The logo image used in the navbar and browser tab.) Tj
+ET
+BT
+0.03 0.18 0.42 rg
+/F1 15 Tf
+1 0 0 1 54.00 693.89 Tm
+(5. Component Files) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 666.89 Tm
+(- Navbar.jsx: Logo, menu links, mobile menu, and dark/bright mode button.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 646.89 Tm
+(- Hero.jsx: Main first section with title, short text, buttons, and social icons.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 626.89 Tm
+(- About.jsx: About text, image, highlights, and animated counters.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 606.89 Tm
+(- Skills.jsx: Skill filters, skill cards, and progress bars.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 586.89 Tm
+(- Portfolio.jsx: Project cards and contact button.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 566.89 Tm
+(- Contact.jsx: Contact details and contact form validation.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 546.89 Tm
+(- Footer.jsx: Copyright text at the bottom.) Tj
+ET
+BT
+0.03 0.18 0.42 rg
+/F1 15 Tf
+1 0 0 1 54.00 512.89 Tm
+(6. Data And Helper Files) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 485.89 Tm
+(- src/data/siteData.js: Main data for nav links, skills, projects, and about items.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 465.89 Tm
+(- src/utils/scroll.js: Smooth scroll helper.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 445.89 Tm
+(- src/utils/contactValidation.js: Contact form values and validation rules.) Tj
+ET
+BT
+0.03 0.18 0.42 rg
+/F1 15 Tf
+1 0 0 1 54.00 411.89 Tm
+(7. How To Edit Common Things) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 384.89 Tm
+(- Change the logo by replacing public/logo.png.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 364.89 Tm
+(- Change the browser title in index.html.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 344.89 Tm
+(- Change the hero text in src/components/Hero.jsx.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 324.89 Tm
+(- Change about text in src/components/About.jsx.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 304.89 Tm
+(- Change skills and projects in src/data/siteData.js.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 284.89 Tm
+(- Change contact email and social links in Hero.jsx and Contact.jsx.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 264.89 Tm
+(- Change colors, spacing, and dark mode in styles.css.) Tj
+ET
+BT
+0.03 0.18 0.42 rg
+/F1 15 Tf
+1 0 0 1 54.00 230.89 Tm
+(8. Contact Information Used) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 203.89 Tm
+(- Email: yasirkhan9850233@gmail.com) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 183.89 Tm
+(- LinkedIn: https://www.linkedin.com/in/yasir-khan-it) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 163.89 Tm
+(- GitHub: https://github.com/yasir50233) Tj
+ET
+BT
+0.03 0.18 0.42 rg
+/F1 15 Tf
+1 0 0 1 54.00 129.89 Tm
+(9. Important Note About The Form) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 102.89 Tm
+(The contact form checks if fields are filled and if the email looks correct. Right) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 86.89 Tm
+(now it does not send real email. To send real messages, connect it to a backend,) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 1109 >>
+stream
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 787.89 Tm
+(EmailJS, Formspree, Netlify Forms, or another form service.) Tj
+ET
+BT
+0.03 0.18 0.42 rg
+/F1 15 Tf
+1 0 0 1 54.00 751.89 Tm
+(10. Deployment) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 724.89 Tm
+(Run this command before uploading the site:) Tj
+ET
+BT
+0.05 0.34 0.45 rg
+/F1 10 Tf
+1 0 0 1 68.00 700.89 Tm
+(npm run build) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 678.89 Tm
+(After this, upload the dist folder to your hosting service.) Tj
+ET
+BT
+0.03 0.18 0.42 rg
+/F1 15 Tf
+1 0 0 1 54.00 642.89 Tm
+(11. Simple Troubleshooting) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 615.89 Tm
+(- If the page is blank, run npm install and then npm run dev again.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 595.89 Tm
+(- If the logo does not show, check that public/logo.png exists.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 575.89 Tm
+(- If changes do not show, refresh the browser.) Tj
+ET
+BT
+0.12 0.16 0.22 rg
+/F1 11 Tf
+1 0 0 1 54.00 555.89 Tm
+(- If a build fails, read the terminal error and check the file name it mentions.) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000003441 00000 n 
+0000003573 00000 n 
+0000007282 00000 n 
+0000007414 00000 n 
+0000008575 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+8707
+%%EOF
